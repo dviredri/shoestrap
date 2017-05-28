@@ -2,3 +2,31 @@ div {
   height: 50px;
   border: 1px solid red;
 }
+nav{
+  background-color: black;
+  position:fixed;
+  height: auto;
+  width: 100%;
+}
+li{
+  display: inline-block;
+  border: 2px;
+  box-sizing: border-box;
+  padding-left: 6px;
+  border: 1px solid white;
+
+
+
+
+}
+
+li a{
+  color: white;
+  text-align: center;
+}
+
+ul{
+    text-align: center;
+
+
+  }
